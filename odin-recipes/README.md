@@ -1,0 +1,2 @@
+# odin-recipes
+In this project, I am showing the recipes that I love by showcasing the skills I have learned through the Odin Project. The skills I was able to exhibit include: using terminal to create directories and files, move files from one directory to another, and find files. I was also able to use a text editor(tincta, in this case)with html to develop a "play around" website. This website includes links from the main page to other pages and back to main, jpg's for each recipe, ordered lists and unordered lists.
